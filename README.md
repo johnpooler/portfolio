@@ -9,7 +9,7 @@ Instructions
 
 4.There are rabbits and chickens in the same cage, there are thirty-five heads, and there are ninety-four feet underneath, find out how many are chickens and how many are rabbits.---->(chickenrabbit)
 
-5.
+5.Check if the string given is a palyndrome or not, returning true or false---->(BorrowOrRob)
 
 6.
 
