@@ -11,6 +11,13 @@ Instructions
 
 5.Check if the string given is a palyndrome or not, returning true or false---->(BorrowOrRob)
 
-6.
+6.Returns all unique characters from the input string.---->(nonduplicate)
+
+7.
+
+8.
+
+9.
+
 
 
